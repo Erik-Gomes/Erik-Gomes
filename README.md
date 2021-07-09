@@ -1,5 +1,5 @@
 ### Oi eu sou Erik Gomes  
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Erik-Gomes">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Erik-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Gomes&layout=compact&langs_count=16&theme=dracula"/>

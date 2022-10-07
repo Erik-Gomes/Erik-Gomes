@@ -6,7 +6,9 @@
  
 <div>
 <div> 
+
  <a href="https://www.cloudskillsboost.google/public_profiles/e8840cea-2cdd-4afa-90dc-78258d0264f0"><img aling="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+ <img aling="center" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
 </div>
 

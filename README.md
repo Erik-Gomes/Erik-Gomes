@@ -1,6 +1,6 @@
 ### Oi eu sou Erik Gomes, atualmente estou cursando ADS na Fatec de Indaiatuba.  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Gomes)](https://github.com/Erik-Gomes/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Gomes&layout=compact&theme=dark)](https://github.com/Erik-Gomes/github-readme-stats)
   
 <div> 
 

@@ -6,6 +6,7 @@
 
  <a href = "mailto:gomeserik35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/e8840cea-2cdd-4afa-90dc-78258d0264f0"><img aling="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 

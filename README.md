@@ -12,10 +12,6 @@
 
 ##
 
-<div>
-  
-  ![Snake animation](https://github.com/Erik-Gomes/Erik-Gomes/blob/output/github-contribution-grid-snake.svg)  
-  
-</div>
+
 
 
